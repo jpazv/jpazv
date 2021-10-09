@@ -6,11 +6,12 @@
 
 <p align='center'>
 - 🔭 I’m currently working at **VORTEX at UNIFOR**
-
+</p>
+<p align='center'>
 - 🌱 I’m currently learning **HTML, CSS, Python and JavaScript**
-
+</p>
 - 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
-
+<p align='center'>
 - ⚡ Fun fact **I'm otaku and currently in love with lo-fi culture**
 </p>
 
