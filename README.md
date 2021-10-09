@@ -23,7 +23,9 @@ lt="animated" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/jp_azv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jp_azv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joão-paulo-azevedo-moreira-2948a6215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-paulo-azevedo-moreira-2948a6215/" height="30" width="40" /></a>
+<a href="https://fb.com/joaopaulo.azevedo.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joaopaulo.azevedo.50" height="30" width="40" /></a>
+ <a href="https://instagram.com/jp_azv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jp_azv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCz4NxtPZ9hv6Ax---a2BBaQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucz4nxtpz9hv6ax---a2bbaq" height="30" width="40" /></a>
 </p>
 
