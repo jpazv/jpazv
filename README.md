@@ -10,6 +10,11 @@
 
 - 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
 
+- ⚡ Fun fact **I'm otaku and currently in love with lo-fi culture**
+
+![lofi-lofigirl](https://user-images.githubusercontent.com/89151731/136674345-ef051e2c-8d05-474c-be24-49c6e95c8662.gif)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jp_azv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jp_azv" height="30" width="40" /></a>
