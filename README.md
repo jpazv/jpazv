@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm João Paulo</h1>
-<h3 align="center">A passionate student and intern developer from Brazil</h3>
+<h3 align="center">A passionate student and developer intern from Brazil</h3>
 
 - 🔭 I’m currently working at **VORTEX**
 
@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I'm an otaku and currently in love with lo-fi culture**
 
 
-![lofi-lofigirl](https://user-images.githubusercontent.com/89151731/136674345-ef051e2c-8d05-474c-be24-49c6e95c8662.gif)
+<h3 align='center'![lofi-lofigirl](https://user-images.githubusercontent.com/89151731/136674345-ef051e2c-8d05-474c-be24-49c6e95c8662.gif)>
 
 
 <h3 align="left">Connect with me:</h3>
