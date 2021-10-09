@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm João Paulo</h1>
-<h3 align="center">A passionate student developer from Brazil</h3>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm João Paulo 👋 I'm a 🚀 Brazilian developer 🚀">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpazv&label=Profile%20views&color=0e75b6&style=flat" alt="jpazv" /> </p>
 
@@ -8,8 +9,6 @@
 - 🔭 I’m currently working on **VORTEX at UNIFOR**
 
 - 🌱 I’m currently learning **HTML & CSS**
-
-- 💬 Ask me about **python and javascript**
 
 - 📫 How to reach me **jpazevedomoreiraa@gmail.com**
 
