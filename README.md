@@ -3,18 +3,15 @@
 
 ![tumblr_pboqhrprnt1xqkqqwo2_r1_1280](https://user-images.githubusercontent.com/89151731/136674260-3c8244dd-d4cc-47e3-80cc-d6c918c4c86a.gif)
 
-<p align='center'>
-- 🔭 I’m currently working at VORTEX at UNIFOR
-</p>
-<p align='center'>
-- 🌱 I’m currently learning HTML, CSS, Python and JavaScript
-</p>
-<p align='center'>
-- 📫 How to reach me: jpazevedomoreiraa@gmail.com
-</p>
-<p align='center'>
-- ⚡ Fun fact: I'm an otaku and currently in love with lo-fi culture
-</p>
+
+- 🔭 I’m currently working at **VORTEX**
+
+- 🌱 I’m currently learning **HTML, CSS, Python and JavaScript**
+
+- 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
+ 
+- ⚡ Fun fact: I'm an **otaku** and currently **in love with lo-fi culture**
+
 
 
 
@@ -24,12 +21,12 @@ lt="animated" />
 </p>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://instagram.com/jp_azv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jp_azv" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpazv&show_icons=true&locale=en&layout=compact" alt="jpazv" /></p>
