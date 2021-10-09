@@ -10,7 +10,9 @@
 <p align='center'>
 - 🌱 I’m currently learning **HTML, CSS, Python and JavaScript**
 </p>
+<p align='center'>
 - 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
+</p>
 <p align='center'>
 - ⚡ Fun fact **I'm otaku and currently in love with lo-fi culture**
 </p>
