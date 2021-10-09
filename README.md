@@ -27,6 +27,7 @@ lt="animated" />
 <a href="https://fb.com/joaopaulo.azevedo.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joaopaulo.azevedo.50" height="30" width="40" /></a>
  <a href="https://instagram.com/jp_azv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jp_azv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCz4NxtPZ9hv6Ax---a2BBaQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucz4nxtpz9hv6ax---a2bbaq" height="30" width="40" /></a>
+ <a href="https://discord.gg/João Paulo Azevedo#9887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="João Paulo Azevedo#9887" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
