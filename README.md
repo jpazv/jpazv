@@ -4,16 +4,16 @@
 ![tumblr_pboqhrprnt1xqkqqwo2_r1_1280](https://user-images.githubusercontent.com/89151731/136674260-3c8244dd-d4cc-47e3-80cc-d6c918c4c86a.gif)
 
 <p align='center'>
-- 🔭 I’m currently working at **VORTEX at UNIFOR**
+- 🔭 I’m currently working at VORTEX at UNIFOR
 </p>
 <p align='center'>
-- 🌱 I’m currently learning **HTML, CSS, Python and JavaScript**
+- 🌱 I’m currently learning HTML, CSS, Python and JavaScript
 </p>
 <p align='center'>
-- 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
+- 📫 How to reach me: jpazevedomoreiraa@gmail.com
 </p>
 <p align='center'>
-- ⚡ Fun fact **I'm otaku and currently in love with lo-fi culture**
+- ⚡ Fun fact: I'm an otaku and currently in love with lo-fi culture
 </p>
 
 
