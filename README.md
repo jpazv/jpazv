@@ -12,6 +12,7 @@
 
 - ⚡ Fun fact **I'm otaku and currently in love with lo-fi culture**
 
+<p align='center'>
 ![lofi-lofigirl](https://user-images.githubusercontent.com/89151731/136674345-ef051e2c-8d05-474c-be24-49c6e95c8662.gif)
 
 
