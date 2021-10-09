@@ -1,8 +1,7 @@
-![tumblr_pboqhrprnt1xqkqqwo2_r1_1280](https://user-images.githubusercontent.com/89151731/136674260-3c8244dd-d4cc-47e3-80cc-d6c918c4c86a.gif)
-
-
 <h1 align="center">Hi 👋, I'm João Paulo</h1>
 <h3 align="center">A passionate student and intern developer from Brazil</h3>
+
+![tumblr_pboqhrprnt1xqkqqwo2_r1_1280](https://user-images.githubusercontent.com/89151731/136674260-3c8244dd-d4cc-47e3-80cc-d6c918c4c86a.gif)
 
 <p align='center'>
 - 🔭 I’m currently working at **VORTEX at UNIFOR**
