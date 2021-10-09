@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm João Paulo</h1>
-<h3 align="center">A passionate student and developer intern from Brazil</h3>
-
 ![tumblr_pboqhrprnt1xqkqqwo2_r1_1280](https://user-images.githubusercontent.com/89151731/136674260-3c8244dd-d4cc-47e3-80cc-d6c918c4c86a.gif)
 
-- 🔭 I’m currently working at **VORTEX**
+
+<h1 align="center">Hi 👋, I'm João Paulo</h1>
+<h3 align="center">A passionate student and intern developer from Brazil</h3>
+
+- 🔭 I’m currently working at **VORTEX at UNIFOR**
 
 - 🌱 I’m currently learning **HTML, CSS, Python and JavaScript**
 
 - 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
 
-- ⚡ Fun fact **I'm an otaku and currently in love with lo-fi culture**
+- ⚡ Fun fact **I'm otaku and currently in love with lo-fi culture**
 
 
-<img  align="center" src="https://user-images.githubusercontent.com/89151731/136674345-ef051e2c-8d05-474c-be24-49c6e95c8662.gif">
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89151731/136674785-e0aa69a7-5573-43b1-8cc2-3fdf9ca7f53f.gif)"
+lt="animated" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
