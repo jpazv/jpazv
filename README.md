@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **VORTEX**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Python**
+- 🌱 I’m learning **HTML, CSS, JavaScript and Python**
 
 - 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
  
