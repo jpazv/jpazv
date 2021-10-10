@@ -1,7 +1,7 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/89151731/136705704-27cd7e4f-b795-46e3-b89d-46d8a5080c3c.gif)
-
-
-
+<p align='center'> 
+  <img src="https://user-images.githubusercontent.com/89151731/136705748-b484d9bc-4162-4f9d-a1a1-c90e2730bbff.gif"
+lt='animated' />
+</p>
 
 - 🔭 I’m currently working at **VORTEX**
 
