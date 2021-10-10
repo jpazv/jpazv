@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm João Paulo</h1>
-<h3 align="center">A passionate student and intern developer from Brazil</h3>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/89151731/136705704-27cd7e4f-b795-46e3-b89d-46d8a5080c3c.gif)
+
 
 
 
