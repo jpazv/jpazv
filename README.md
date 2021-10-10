@@ -1,5 +1,6 @@
 <p align='center'> 
-  <img src="https://user-images.githubusercontent.com/89151731/136705846-6483a288-1068-43b0-bee4-767b90f3bfdc.gif"
+  <img src="https://user-images.githubusercontent.com/89151731/136705991-b8f1ac80-02d0-4f92-a48b-70415742ee3f.gif"
+
 lt='animated' />
 </p>
 
