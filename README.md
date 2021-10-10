@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working at **VORTEX**
 
-- 🌱 I’m learning **HTML, CSS, JavaScript and Python**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and Python**
 
 - 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
  
-- ⚡ Fun fact: I'm an **otaku** and currently **in love with lo-fi culture**
+- ⚡ Fun fact: I'm an **otaku** and also **in love** with **lo-fi** culture
 
 
 
