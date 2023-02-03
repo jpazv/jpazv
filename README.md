@@ -12,9 +12,9 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-🔭 I’m currently working at **VORTEX**
+🔭 I’m currently working at **neWave Telecom**
 
-🌱 I’m currently learning **HTML, CSS, JavaScript and Python**
+🌱 I’m currently learning **React, Node.js, Typescript and Tailwind CSS**
 
 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
  
