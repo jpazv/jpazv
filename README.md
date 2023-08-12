@@ -1,7 +1,3 @@
-<p align='center'> 
-  <img src="https://user-images.githubusercontent.com/89151731/136706097-3887bfb7-9e68-46e9-bab4-7891a8572df4.gif"
-lt='animated' />
-</p>
 
 <!--
 How to make the bio gif ?
@@ -12,13 +8,13 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-🔭 I’m currently working at **neWave Telecom**
+🔭 I’m currently studying at **University of Fortaleza**
 
-🌱 I’m currently learning **React, Node.js, Typescript and Tailwind CSS**
+🌱 I’m currently learning **Blockchain, Crypto, Typed Lenguages and webcrapping with LLM`s**
 
 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
  
-⚡ Fun fact: I'm an **otaku** and also **in love** with **lo-fi** culture
+⚡ Fun fact: I'm an **otaku** and also **in love** with **lo-fi** culture and ***musical productor with AI assist**
 
 
 
