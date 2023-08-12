@@ -1,24 +1,21 @@
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/25/03/23/250323269c906b90ec3f4404e1cc28e4.gif"
-lt="animated" />
-</p>
 
 🔭 I’m currently studying at **University of Fortaleza**
 
-🌱 I’m currently learning **Blockchain, Crypto, Typed Lenguages and webcrapping with LLM`s**
+🌱 I’m currently learning **Blockchain, Crypto, Typed Languages and webcrapping with LLM`s**
 
 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
  
 ⚡ Fun fact: I'm an **otaku** and also **in love** with **lo-fi** culture and ***musical productor with AI assist**
 
 
-
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89151731/136674785-e0aa69a7-5573-43b1-8cc2-3fdf9ca7f53f.gif"
+  <img src="https://i.pinimg.com/originals/25/03/23/250323269c906b90ec3f4404e1cc28e4.gif"
 lt="animated" />
 </p>
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
