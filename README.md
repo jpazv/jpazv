@@ -1,12 +1,8 @@
 
-<!--
-How to make the bio gif ?
-💜 Thanks to [matyo91](https://github.com/matyo91)
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
-Then i save result to [assets/github.gif](assets/github.gif)
--->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/25/03/23/250323269c906b90ec3f4404e1cc28e4.gif"
+lt="animated" />
+</p>
 
 🔭 I’m currently studying at **University of Fortaleza**
 
