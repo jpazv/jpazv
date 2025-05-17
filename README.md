@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying at **University of Fortaleza**
 
-🌱 I’m currently learning **Blockchain, Crypto, Typed Languages and webcrapping with LLM`s**
+🌱 I’m currently learning **Typed Languages**
 
 📫 How to reach me: **jpazevedomoreiraa@gmail.com**
  
