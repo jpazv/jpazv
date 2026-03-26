@@ -6,8 +6,6 @@
 
 ---
 
-<img align="right" width="36%" src="https://i.pinimg.com/originals/25/03/23/250323269c906b90ec3f4404e1cc28e4.gif" />
-
 🧑‍💻 Front-end developer building **SaaS** products  
 📍 Fortaleza, BR  
 🌱 Leveling up in **UX/UI** and **AI workflows**  
